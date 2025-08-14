@@ -2,6 +2,8 @@
 
 This project is a static clone of the Hulu homepage, built using HTML and CSS. It replicates the design and layout of the Hulu website, showcasing various sections such as the header, promotional content, categories, live TV, and footer.
 
+**Live**: https://hulu-webpage-clone-pearl.vercel.app/
+
 <img src="./hulu-clone.png" />
 
 ## Features
